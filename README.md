@@ -108,3 +108,6 @@ Given an array of strings, find the shortest one and return a pointer to it:
 
 You can assume that the strings are well-formed; that is, any string which is not NULL is terminated properly with a `\0`.
 
+##Array
+##LinkedList
+##PriorityQueue
